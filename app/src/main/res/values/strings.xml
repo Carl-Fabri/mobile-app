@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTP StudyWork</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="first_fragment_label">Primero</string>
+    <string name="second_fragment_label">Segundo</string>
+    <string name="action_settings">Configuración</string>
+</resources>
