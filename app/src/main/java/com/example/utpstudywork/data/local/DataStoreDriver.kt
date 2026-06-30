@@ -1,4 +1,3 @@
 package com.example.utpstudywork.data.local
 
-class DataStoreDriver {
-}
+// Reservado para futuras preferencias con DataStore

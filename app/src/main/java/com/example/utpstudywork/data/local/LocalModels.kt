@@ -1,4 +1,3 @@
 package com.example.utpstudywork.data.local
 
-class LocalModels {
-}
+// Entidades Room definidas en data/local/entity/
